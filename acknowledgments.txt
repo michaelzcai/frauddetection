@@ -1,0 +1,41 @@
+Programming Assignment 7:  Fraud Detection
+
+
+/******************************************************************************
+ *  Describe whatever help, if any, that you received on this assignment.
+ *    - Include help from individuals, including course staff, lab TAs,
+ *      classmates, friends, and external sources. Attribute them by
+ *      name; specify the nature of the help; and include the date(s)
+ *      on which you received help.
+ *    - Do not include course materials (such as the lectures, precepts,
+ *      booksite, textbook, and Ed Discussion).
+ *    - Write "none" if you did not receive any help.
+ *
+ *  Here is an example:
+ *
+ *      9/10/24 Grace Hopper (lab TA)
+ *      Helped me fix a bug in my code that mapped from 2D coordinates
+ *      to 1D coordinates.
+ *
+ *      9/12/24 John von Neumann (classmate)
+ *      Helped me understand the meaning of "backwash" and why my code
+ *      was failing the backwash tests.
+ *
+ ******************************************************************************/
+
+[list the help received here]
+none
+
+/******************************************************************************
+ *  Write and sign the following student acknowledgment of original work.
+ *  For your signature, type /s/, followed by your name.
+ *  Here is an example:
+ *
+ *      This programming assignment represents my own work in accordance
+ *      with University regulations.  /s/ Ada Lovelace
+ ******************************************************************************/
+
+[write and sign the pledge here]
+This programming assignment represents my own work in accordance with
+University regulations.  /s/ Michael Cai
+
